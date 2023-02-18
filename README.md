@@ -1,4 +1,4 @@
-SIEMA
-Jooooo
-asdasd
+asd  SIEMA
+Jooooasdo
+as
 Ale zda łuuuuuuuuuuuuuuu
