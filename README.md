@@ -1,4 +1,5 @@
-SIEMA
-Jooooo
-asdasd
-Ale zda łuuuuuuuuuuuuuuu
+SasdczxIEMA
+J
+asda
+ Ale zda łuuuuuuuuu
+axsfsa
