@@ -6,5 +6,8 @@ def dodaj(a,b)
 
 pierwsza = input()
 druga = input()
+def odejmij(a,b)
+	return a-b
+
 
 print (dodaj(pierwsza, druga))
