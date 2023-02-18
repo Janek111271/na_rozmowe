@@ -1,4 +1,4 @@
 SIEMA
 Jooooo
-
-Ale jazda łuuuuuuuuuuuuuuu
+asdasd
+Ale zda łuuuuuuuuuuuuuuu
