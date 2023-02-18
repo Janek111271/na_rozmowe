@@ -1,4 +1,3 @@
 SIEMA
-ALO
 Jooooo
 
